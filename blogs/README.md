@@ -14,34 +14,36 @@
 
 ## 🚀 Git Fundamentals
 
-### Git for Beginners
+### [Git for Beginners](https://learnwithshreyas.hashnode.dev/git-for-beginners)
 [![Git for Beginners](./Blogs/B1%20banner.png)](https://learnwithshreyas.hashnode.dev/git-for-beginners)
 
-### Why Version Control Exists?
+### [Why Version Control Exists?](https://learnwithshreyas.hashnode.dev/why-version-control-exists)
 [![Why Version Control Exists?](./Blogs/B2%20banner.png)](https://learnwithshreyas.hashnode.dev/why-version-control-exists)
 
-### Inside Git: How It Works
+### [Inside Git: How It Works](https://learnwithshreyas.hashnode.dev/inside-git-how-it-works)
 [![Inside Git: How It Works](./Blogs/B3%20banner.png)](https://learnwithshreyas.hashnode.dev/inside-git-how-it-works)
+
 
 ---
 
 ## 🌐 Web & Networking Foundations
 
-### Networking Devices
+### [Networking Devices](https://learnwithshreyas.hashnode.dev/networking-devices)
 [![Networking Devices](./Blogs/B4%20banner.png)](https://learnwithshreyas.hashnode.dev/networking-devices)
 
-### DNS Record Types
+### [DNS Record Types](https://learnwithshreyas.hashnode.dev/dns-record-types)
 [![DNS Record Types](./Blogs/B8%20banner.png)](https://learnwithshreyas.hashnode.dev/dns-record-types)
 
-### How a Browser Works
+### [How a Browser Works](https://learnwithshreyas.hashnode.dev/how-a-browser-works)
 [![How a Browser Works](./Blogs/B6%20banner.png)](https://learnwithshreyas.hashnode.dev/how-a-browser-works)
+
 
 ---
 
 ## 🧩 HTML 
 
-### HTML Tags and Elements
+### [HTML Tags and Elements](https://learnwithshreyas.hashnode.dev/html-tags-and-elements)
 [![HTML Tags and Elements](./Blogs/B5%20banner.png)](https://learnwithshreyas.hashnode.dev/html-tags-and-elements)
 
-### Emmet for HTML
+### [Emmet for HTML](https://learnwithshreyas.hashnode.dev/emmet-for-html)
 [![Emmet for HTML](./Blogs/B7%20banner.png)](https://learnwithshreyas.hashnode.dev/emmet-for-html)
