@@ -18,5 +18,4 @@ This is a simple resume website built using pure HTML.
 ![Resume Preview 1](./screenshots/resume-1.png)
 ![Resume Preview 2](./screenshots/resume-2.png)
 
-## Original Repository
-https://github.com/shreyas-landge/html-resume
+
