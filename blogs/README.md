@@ -1,21 +1,17 @@
-<h1 align="center">Blogs Archive</h1>
+  <h1 align="center">Blogs Archive</h1>
+</a>
 
 <p align="center">
-  <em>Showcase of my journey to building a solid foundation.</em>
+  Showcase of my journey to building a solid Foundation.
 </p>
 
-<p align="center">
-  <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-    <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-pink" />
-  </a>
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green" />
-  </a>
-</p>
+<div align= "center">
 
-<hr />
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)&nbsp;&nbsp;[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+</div>
 
+<br>
 
 ## 🚀 Git Fundamentals
 
