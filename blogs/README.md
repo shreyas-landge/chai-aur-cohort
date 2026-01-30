@@ -1,13 +1,16 @@
-# 📚 Blogs Archive
+<h1 align="center">Blogs Archive</h1>
 
-> _A curated showcase of my journey in understanding core software and web fundamentals._
+<p align="center">
+  <em>Showcase of my journey to building a solid foundation.</em>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-pink" />
   <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
----
+<hr />
+
 
 ## 🚀 Git Fundamentals
 
