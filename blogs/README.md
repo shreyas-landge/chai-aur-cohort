@@ -5,11 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-pink" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <a href="https://www.conventionalcommits.org/en/v1.0.0/">
+    <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-pink" />
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green" />
+  </a>
 </p>
 
 <hr />
+
 
 
 ## 🚀 Git Fundamentals
