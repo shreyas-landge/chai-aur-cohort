@@ -67,3 +67,17 @@ Body text uses CursorGothic when available; otherwise it falls back to the syste
 
 ---
 
+##  Screenshots / Preview 
+
+![](./assets/cursor-ss/ss-1.jpeg)
+![](./assets/cursor-ss/ss-2.jpeg)
+![](./assets/cursor-ss/ss-3.jpeg)
+![](./assets/cursor-ss/ss-4.jpeg)
+![](./assets/cursor-ss/ss-5.jpeg)
+![](./assets/cursor-ss/ss-6.jpeg)
+![](./assets/cursor-ss/ss-7.jpeg)
+![](./assets/cursor-ss/ss-8.jpeg)
+![](./assets/cursor-ss/ss-9.jpeg)
+![](./assets/cursor-ss/ss-10.jpeg)
+![](./assets/cursor-ss/ss-11.png)
+
